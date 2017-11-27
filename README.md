@@ -1,4 +1,4 @@
-# EmbebidosTP
+# TP Embebidos + IoT
 ## Integrantes:
 
 Broqua, Fernando - 34476433
