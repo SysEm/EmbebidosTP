@@ -12,4 +12,4 @@ Gomez, Jorge - 31698426
 Gonzalez, Gustavo - 33457235
 
 ### Demo de uso:
-[https://www.youtube.com/watch?v=ForxdHmamoU]
+https://www.youtube.com/watch?v=ForxdHmamoU
